@@ -5,29 +5,48 @@ En este repo he recolectado diferentes recursos útiles para el desarrollo de si
 https://polaris.shopify.com
 
 ## ANIMACIONES 
+
 https://www.tailwindcss-animated.com/
+
 https://airbnb.design/lottie/
+
 https://animate.style/
+
 https://scrollrevealjs.org/
+
 https://michalsnik.github.io/aos/
+
 https://threejs.org/
+
 https://animejs.com/
+
 https://gsap.com/
+
 https://revealjs.com/
+
 https://www.framer.com/motion/
+
 https://www.react-magic-motion.com/
 
 ## COMPONENTES UI
 https://mui.com/material-ui/
+
 https://tailwindui.com/components
+
 https://www.hover.dev/components/testimonials
+
 https://nextui.org/
+
 https://www.react-magic-motion.com/
+
 https://www.hover.dev/components
+
 https://materializecss.com/
+
 
 ## PLANTILLAS
 https://uidesigndaily.com/
+
 https://collectui.com/
 
 ## CARRUSELES
@@ -41,6 +60,7 @@ https://www.frontendmentor.io/
 
 ## ALERTAS 
 https://sonner.emilkowal.ski/
+
 https://sweetalert2.github.io/#examples
 
 ## TYPED
@@ -51,17 +71,27 @@ https://formvalidation.io/
 
 ## LÓGICA Y PRUEBAS TÉCNICAS 
 https://leetcode.com/
+
 https://coderbyte.com/
+
 https://app.pgrammer.com/
+
 https://the-algorithms.com/es
+
 https://app.codesignal.com/
+
 https://github.com/goncy/interview-challenges
+
 
 ## APIS PÚBLICAS 
 https://developer.marvel.com/
+
 https://jsonplaceholder.typicode.com/
+
 https://openweathermap.org/api
+
 https://covidtracking.com/data
+
 https://pokeapi.co/
 
 ## OTROS RECURSOS ÚTILES
