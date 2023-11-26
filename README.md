@@ -97,28 +97,37 @@ https://pokeapi.co/
 ## OTROS RECURSOS ÚTILES
 
 Subir proyecto de React a GitHub Pages
+
 https://mundocursos.online/como-subir-un-proyecto-de-react-a-github/
 
 Métodos de js para manipulación de arrays 
+
 https://github.com/rubendaniel9292/25-metodos-array-javascript
 
 Curso fullstack
+
 https://fullstackopen.com/es/
 
 Recopilación de tutoriales para diferentes lenguajes.
+
 https://overapi.com/
 
 Documentación de next.js 
+
 https://nextjs.org/docs
 
 Para la terminal de Linux
+
 https://github.com/rubendaniel9292/the-art-of-command-line/blob/master/README-es.md#meta
 
 Para git
+
 https://gitexplorer.com/
+
 https://github.com/andrescaro16/Comandos-Git-GitHub#configuraci%C3%B3n-git
 
 Para desarrollo web
+
 https://thevalleyofcode.com/
 
 
