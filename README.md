@@ -43,6 +43,11 @@ https://www.hover.dev/components
 
 https://materializecss.com/
 
+https://ui.aceternity.com/components/floating-navbar
+
+
+## Biblioteca drag and dorp
+https://drag-and-drop.formkit.com/
 
 ## PLANTILLAS
 https://uidesigndaily.com/
@@ -72,6 +77,7 @@ https://formvalidation.io/
 ## LÓGICA Y PRUEBAS TÉCNICAS 
 https://leetcode.com/
 
+
 https://coderbyte.com/
 
 https://app.pgrammer.com/
@@ -93,6 +99,9 @@ https://openweathermap.org/api
 https://covidtracking.com/data
 
 https://pokeapi.co/
+
+https://publicapis.dev/
+
 
 ## OTROS RECURSOS ÚTILES
 
@@ -129,6 +138,12 @@ https://github.com/andrescaro16/Comandos-Git-GitHub#configuraci%C3%B3n-git
 Para desarrollo web
 
 https://thevalleyofcode.com/
+
+Comando escenciales de linux
+https://linuxcommandlibrary.com/
+
+
+
 
 
 
